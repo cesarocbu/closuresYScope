@@ -26,6 +26,6 @@ let myMoneyBox = moneyBox();
 
 myMoneyBox(4);
 myMoneyBox(6);
-myMoneyBox(10);
- 
+myMoneyBox(12);
+
 //Recuerda las asignaciones anteriores en la variable saveCoins.
